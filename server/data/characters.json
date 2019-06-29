@@ -1,0 +1,67 @@
+[
+    {
+    "id": 1,
+    "name": "Cloud Strife",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/1/1a/Cloud-FFVIIArt.png/revision/latest?cb=20110227161510",
+    "strength": 28,
+    "magic": 15,
+    "hp": 50
+    },
+    {
+    "id": 2,
+    "name": "Terra Branford",
+    "photo": "https://i.pinimg.com/originals/78/a3/fb/78a3fb5f3534a2efe0a2eaeb94593af3.png",
+    "strength": 18,
+    "magic": 45,
+    "hp": 30
+    },
+    {
+    "id": 3,
+    "name": "Sabin Figaro",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/b/b4/DFFOO_Sabin.png/revision/latest?cb=20180523003501",
+    "strength": 40,
+    "magic": 8,
+    "hp": 45
+    },
+    {
+    "id": 4,
+    "name": "Cyan Garamonde",
+    "photo": "https://vignette.wikia.nocookie.net/yunas-princess-adventure/images/d/dd/Cyan_Garamonde.png/revision/latest?cb=20181111070604",
+    "strength": 35,
+    "magic": 26,
+    "hp": 40
+    },
+    {
+    "id": 5,
+    "name": "Zidane Tribal",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/1/11/Zidane_Tribal_character.png/revision/latest?cb=20120811142151",
+    "strength": 27,
+    "magic": 30,
+    "hp": 35
+    },
+    {
+    "id": 6,
+    "name": "Lightning",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/c/c6/FFXIII-Lightning_CG.png/revision/latest/scale-to-width-down/426?cb=20150918214724",
+    "strength": 30,
+    "magic": 25,
+    "hp": 28
+    },
+    {
+    "id": 7,
+    "name": "Noctis Caelum",
+    "photo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/NoctisLucisCaelum.png/220px-NoctisLucisCaelum.png",
+    "strength": 30,
+    "magic": 30,
+    "hp": 30
+    },
+    {
+    "id": 8,
+    "name": "Snow Villiers",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/0/05/DFFNT_Snow_Villiers_Costume_01-A.png/revision/latest?cb=20190207211951",
+    "strength": 41,
+    "magic": 8,
+    "hp": 40
+    }
+]
+

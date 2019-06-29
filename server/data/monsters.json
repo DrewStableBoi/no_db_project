@@ -1,0 +1,67 @@
+[
+    {
+    "id": 9,
+    "name": "Sephiroth",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/e/e4/Sephiroth-FFVIIArt.png/revision/latest/scale-to-width-down/700?cb=20141008012137",
+    "strength": 35,
+    "magic": 20,
+    "hp": 50
+    },
+    {
+    "id": 10,
+    "name": "Kefka Palazzo",
+    "photo": "https://vignette.wikia.nocookie.net/villains/images/a/a5/Kefka_Dissidia.png/revision/latest?cb=20181105014543",
+    "strength": 23,
+    "magic": 50,
+    "hp": 30
+    },
+    {
+    "id": 11,
+    "name": "Ultros",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/f/f2/Ultros_battle.png/revision/latest?cb=20060217224040",
+    "strength": 34,
+    "magic": 15,
+    "hp": 60
+    },
+    {
+    "id": 12,
+    "name": "Vargas",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/a/aa/Vargas-ffvi-ios-battle.png/revision/latest?cb=20140715201201",
+    "strength": 40,
+    "magic": 5,
+    "hp": 38
+    },
+    {
+    "id": 13,
+    "name": "Kuja",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/c/cd/Kuja-ffix-boss.png/revision/latest/scale-to-width-down/150?cb=20130625033509",
+    "strength": 14,
+    "magic": 45,
+    "hp": 20
+    },
+    {
+    "id": 14,
+    "name": "Orphan",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/9/97/Orphan_One.png/revision/latest?cb=20140226213047",
+    "strength": 20,
+    "magic": 40,
+    "hp": 25
+    },
+    {
+    "id": 15,
+    "name": "Arydn Izunia",
+    "photo": "https://vignette.wikia.nocookie.net/villains/images/6/63/ArdynIzunia.png/revision/latest?cb=20161217013800",
+    "strength": 30,
+    "magic": 30,
+    "hp": 30
+    },
+    {
+    "id": 16,
+    "name": "Golbez",
+    "photo": "https://vignette.wikia.nocookie.net/finalfantasy/images/1/18/Dissidia_Golbez_ex.png/revision/latest/top-crop/width/320/height/320?cb=20101218065428",
+    "strength": 37,
+    "magic": 10,
+    "hp": 40
+    }
+]
+
