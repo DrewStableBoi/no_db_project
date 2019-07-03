@@ -82,8 +82,8 @@ class Header extends Component {
       return acc + monster.strength
     },0);
 
-    const monsterOffering = ((badHp)/(badMagic + badStrength));
-    const goodOffering = ((goodHp)/(goodMagic + goodStrength));
+    const monsterOffering = badHp + badStrength + badMagic;
+    const goodOffering = goodHp + goodStrength + goodMagic;
 
     console.log(monsterOffering);
     console.log(goodOffering);

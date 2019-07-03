@@ -130,22 +130,26 @@ module.exports = {
 
   deleteChar: (req, res) => {
     let index = -1;
+    let parameter = Number(req.params.id);
+
     characters.forEach((char, i) => {
-      if (char.id === Number(req.params.id)) index = i;
+      if (Number(char.id) === parameter) index = i;
     });
-    if(index != -1) {
-    characters.splice(index, 1);
+    if(Number(index) != -1) {
+    characters.splice(Number(index), 1);
     }
     res.status(200).send(characters);
   },
 
   deleteMonster: (req, res) => {
     let index = -1;
+    let parameter = Number(req.params.id);
+    
     monsters.forEach((monst, i) => {
-      if (monst.id === Number(req.params.id)) index = i;
+      if (Number(monst.id) === parameter) index = i;
     });
-    if(index != -1) {
-    monsters.splice(index, 1);
+    if(Number(index) != -1) {
+    monsters.splice(Number(index), 1);
     }
     res.status(200).send(monsters);
   }

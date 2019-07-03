@@ -47,7 +47,7 @@ class WholeApp extends Component {
       .then(results => {
         console.log(results);
         this.setState({ charactersToDisplay: results.data });
-        toast.success("Successfully got Characters! Select your Fighters!");
+        toast.success("Successfully got Characters!");
       })
       .catch(err => {
         console.log(err);
@@ -59,7 +59,7 @@ class WholeApp extends Component {
     axios
       .get("http://localhost:4001/api/monsters")
       .then(results => {
-        toast.success("Successfully got Monsters. What awaits?");
+        toast.success("Successfully got Monsters!");
         this.setState({ monstersToDisplay: results.data });
       })
       .catch(err => {
